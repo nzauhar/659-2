@@ -1,0 +1,713 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 420,
+      "max": [
+        1.0082342624664307,
+        3.0104660987854004,
+        1.0082345008850098
+      ],
+      "min": [
+        -1.0082347393035889,
+        -2.1976292133331299,
+        -1.0082346200942993
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5040,
+      "componentType": 5126,
+      "count": 420,
+      "max": [
+        0.9999997615814209,
+        1,
+        0.9999997615814209
+      ],
+      "min": [
+        -0.9999997615814209,
+        -1,
+        -0.9999997615814209
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 420,
+      "max": [
+        0.99761193990707397,
+        0.49142745137214661,
+        0.9976118803024292,
+        1
+      ],
+      "min": [
+        -0.99985730648040771,
+        -1,
+        -0.99993997812271118,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2112,
+      "max": [
+        419
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 10080,
+      "componentType": 5126,
+      "count": 8,
+      "max": [
+        0.097126476466655731,
+        3.4882502555847168,
+        -0.1558346152305603
+      ],
+      "min": [
+        -0.19000935554504395,
+        3.4882502555847168,
+        -0.28143134713172913
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 10176,
+      "componentType": 5126,
+      "count": 8,
+      "max": [
+        0,
+        1,
+        1.5030778399705014e-07
+      ],
+      "min": [
+        0,
+        1,
+        0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 6720,
+      "componentType": 5126,
+      "count": 8,
+      "max": [
+        0.077988773584365845,
+        1.4998690289758088e-07,
+        -0.99331623315811157,
+        1
+      ],
+      "min": [
+        -0.11542479693889618,
+        0,
+        -0.99987572431564331,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 8448,
+      "componentType": 5125,
+      "count": 18,
+      "max": [
+        7
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 10272,
+      "componentType": 5126,
+      "count": 115,
+      "max": [
+        0.28976723551750183,
+        3.7749624252319336,
+        0.28976729512214661
+      ],
+      "min": [
+        -0.28976723551750183,
+        3.2361645698547363,
+        -0.28976726531982422
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 11652,
+      "componentType": 5126,
+      "count": 115,
+      "max": [
+        0.99255222082138062,
+        1,
+        0.99255222082138062
+      ],
+      "min": [
+        -0.99255228042602539,
+        -1,
+        -0.99255222082138062
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 6848,
+      "componentType": 5126,
+      "count": 115,
+      "max": [
+        0.9997633695602417,
+        0.97264158725738525,
+        0.78630709648132324,
+        1
+      ],
+      "min": [
+        -0.78379660844802856,
+        -0.97073501348495483,
+        -0.86994695663452148,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 115,
+      "max": [
+        0.9508587121963501,
+        0.99790388345718384
+      ],
+      "min": [
+        0.52708947658538818,
+        0.35685628652572632
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 8520,
+      "componentType": 5125,
+      "count": 480,
+      "max": [
+        114
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 13032,
+      "componentType": 5126,
+      "count": 452,
+      "max": [
+        1.0191019773483276,
+        3.488250732421875,
+        1.0191022157669067
+      ],
+      "min": [
+        -1.0191023349761963,
+        -2.1991815567016602,
+        -1.0191022157669067
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 18456,
+      "componentType": 5126,
+      "count": 452,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 8688,
+      "componentType": 5126,
+      "count": 452,
+      "max": [
+        0.98107796907424927,
+        0.94848102331161499,
+        0.98105746507644653,
+        1
+      ],
+      "min": [
+        -0.99985933303833008,
+        -0.94848531484603882,
+        -0.9999995231628418,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 10440,
+      "componentType": 5125,
+      "count": 2400,
+      "max": [
+        451
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 23880,
+      "componentType": 5126,
+      "count": 45,
+      "max": [
+        1.0403783321380615,
+        0.91250145435333252,
+        0.64975333213806152
+      ],
+      "min": [
+        0.78449815511703491,
+        -1.5037621259689331,
+        -0.64975333213806152
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 24420,
+      "componentType": 5126,
+      "count": 45,
+      "max": [
+        0.99999856948852539,
+        -0.0016667876625433564,
+        0.53114110231399536
+      ],
+      "min": [
+        0.84699958562850952,
+        -0.030886266380548477,
+        -0.53114110231399536
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 15920,
+      "componentType": 5126,
+      "count": 45,
+      "max": [
+        0.53114527463912964,
+        0.011676198802888393,
+        -0.84728074073791504,
+        1
+      ],
+      "min": [
+        -0.53113663196563721,
+        -0.0092196669429540634,
+        -1,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 920,
+      "componentType": 5126,
+      "count": 45,
+      "max": [
+        0.70927625894546509,
+        0.45585310459136963
+      ],
+      "min": [
+        0.41001987457275391,
+        0.030231751501560211
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 20040,
+      "componentType": 5125,
+      "count": 192,
+      "max": [
+        44
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Luan (https://sketchfab.com/luanche)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/c810196bb3224ed2804084d77577336b",
+      "title": "Wine Bottle"
+    },
+    "generator": "Sketchfab-3.21.1",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 20808,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1280,
+      "byteOffset": 20808,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24960,
+      "byteOffset": 22088,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16640,
+      "byteOffset": 47048,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 63688,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/estampawine_baseColor.png"
+    },
+    {
+      "uri": "textures/rolha1_baseColor.jpg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "wine",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0373924754,
+          0,
+          0.014052231300000001,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "bottle",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0038643560000000002,
+          0.019912744100000001,
+          5.1825900000000001e-05,
+          0.7410606153
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "rolha1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.38348485770000001,
+          0.38348485770000001,
+          0.38348485770000001,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    },
+    {
+      "doubleSided": false,
+      "name": "estampawine",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "polySurface5_wine_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "polySurface6_bottle_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TANGENT": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "wine1_rolha1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TANGENT": 10,
+            "TEXCOORD_0": 11
+          },
+          "indices": 12,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "wine1_bottle_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 14,
+            "POSITION": 13,
+            "TANGENT": 15
+          },
+          "indices": 16,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "wine1_estampawine_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 18,
+            "POSITION": 17,
+            "TANGENT": 19,
+            "TEXCOORD_0": 20
+          },
+          "indices": 21,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "a8a7dd82866245dc867586992d158bfd.fbx"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "rolha"
+    },
+    {
+      "children": [
+        6,
+        8,
+        10
+      ],
+      "name": "polySurface4"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        0.99382549524307251,
+        0,
+        0,
+        0,
+        0,
+        0.99382549524307251,
+        0,
+        0,
+        0,
+        0,
+        0.99382549524307251,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "polySurface5"
+    },
+    {
+      "mesh": 0,
+      "name": "polySurface5_wine_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "name": "polySurface6"
+    },
+    {
+      "mesh": 1,
+      "name": "polySurface6_bottle_0"
+    },
+    {
+      "children": [
+        11,
+        12,
+        13
+      ],
+      "name": "wine1"
+    },
+    {
+      "mesh": 2,
+      "name": "wine1_rolha1_0"
+    },
+    {
+      "mesh": 3,
+      "name": "wine1_bottle_0"
+    },
+    {
+      "mesh": 4,
+      "name": "wine1_estampawine_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
+
