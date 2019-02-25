@@ -1,0 +1,58 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl texture000_texture000_png4
+Ka 0.000000 0.000000 0.000000
+Kd 0.776471 0.529412 0.482353
+Ks 0.330000 0.330000 0.330000
+map_Kd untitled/texture000_texture000_png4.png
+
+newmtl texture001_texture001_png4
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.101961 0.105882
+Ks 0.330000 0.330000 0.330000
+map_Kd untitled/texture001_texture001_png4.png
+
+newmtl texture003_texture003_png4
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.458824 0.403922
+Ks 0.330000 0.330000 0.330000
+map_Kd untitled/texture003_texture003_png4.png
+
+newmtl texture006_texture006_png1
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.160784 0.200000
+Ks 0.330000 0.330000 0.330000
+map_Kd untitled/texture006_texture006_png1.png
+
+newmtl texture004_texture004_png1
+Ka 0.000000 0.000000 0.000000
+Kd 0.286275 0.184314 0.066667
+Ks 0.330000 0.330000 0.330000
+map_Kd untitled/texture004_texture004_png1.png
+
+newmtl texture005_texture005_png1
+Ka 0.000000 0.000000 0.000000
+Kd 0.129412 0.117647 0.145098
+Ks 0.330000 0.330000 0.330000
+map_Kd untitled/texture005_texture005_png1.png
+
+newmtl texture007_texture007_png1
+Ka 0.000000 0.000000 0.000000
+Kd 0.733333 0.505882 0.388235
+Ks 0.330000 0.330000 0.330000
+map_Kd untitled/texture007_texture007_png1.png
+
+newmtl texture008_texture008_png1
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.109804 0.172549
+Ks 0.330000 0.330000 0.330000
+map_Kd untitled/texture008_texture008_png1.png
+
+newmtl texture002_texture002_png4
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.090196 0.090196
+Ks 0.330000 0.330000 0.330000
+map_Kd untitled/texture002_texture002_png4.png
+
